@@ -1,0 +1,1 @@
+ /Users/hoanglong/Desktop/Intern/exercies/exercies2/.dart_tool/flutter_build/adfcbc2970680553a6625990d7329c75/native_assets.yaml: 
